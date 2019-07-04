@@ -5,7 +5,7 @@
     </div>
     <div class="headings">
       <h1>
-        Hello tacoface
+        Hello tacoface 🌮
         <br>I love delicious tacos
       </h1>
       <p>Please eat tacos.</p>
